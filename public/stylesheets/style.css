@@ -1,0 +1,29 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.canvas {
+  position: relative;
+  width: 600px;
+  height: 600px;
+  border: 1px solid red;
+}
+
+.player {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  border-radius: 100%;
+}
+.player1 {
+  background-color: green;
+}
+
+.player2 {
+  background-color: purple;
+}
